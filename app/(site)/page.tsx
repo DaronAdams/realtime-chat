@@ -15,7 +15,7 @@ export default function Home() {
         "
     >
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
-            <AiFillWechat className="mx-auto h-12 w-auto" />
+            <AiFillWechat className="mx-auto h-12 w-auto text-secondary" />
             <h2
                 className='
                     mt-6
@@ -23,7 +23,7 @@ export default function Home() {
                     text-3xl
                     font-bold
                     tracking-tight
-                    text-white-100
+                    text-white
                 '
             >
                 Sign in to your account
